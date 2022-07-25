@@ -1,0 +1,7 @@
+{
+  "name": "bug-notification",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
